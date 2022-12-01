@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Hey this is the change in mastser
-=======
-hey guys this is the new chnaghe in featyure
->>>>>>> feature
+THis is the confli t from master
