@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 THis is the confli t from master
+=======
+Hey guys  frestutr comg;ict
+>>>>>>> feature
+
+
+this is for git diff
