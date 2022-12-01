@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 THis is the confli t from master
 =======
 Hey guys  frestutr comg;ict
@@ -6,3 +7,6 @@ Hey guys  frestutr comg;ict
 
 
 this is for git diff
+=======
+Hey guys  frestutr comg;ict ererererer
+>>>>>>> feature
